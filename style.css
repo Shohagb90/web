@@ -2,3 +2,10 @@ body{
     margin: 0;
     font-family: 'Roboto', sans-serif;
 }
+.top{
+    background-image: 100;
+    background-repeat: no-repeat;
+}
+.half-top{
+    width: 50px;
+}
