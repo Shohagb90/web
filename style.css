@@ -2,10 +2,38 @@ body{
     margin: 0;
     font-family: 'Roboto', sans-serif;
 }
+
 .top{
-    background-image: 100;
-    background-repeat: no-repeat;
+background-image: url(images/top-banner.png);
+background-repeat: no-repeat;
 }
 .half-top{
-    width: 50px;
+    width: 40%;
+    float: left;
+    margin-left: 0%;
+    padding-left: 2%;
+    border: 2px solid red;
+   border-width: 40px;
+   border-radius: 20px;
+    
+}
+.half-top img{
+width: 39%;
+}
+section{
+    height: 500px;
+    padding-bottom: 150px;
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 40;
+}
+p{
+    color: orange;
+}
+.tag-highlight{
+    color: cyan;
+    color-adjust: 700;
 }
